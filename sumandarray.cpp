@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// This is a good program
 void mergesort(int arr[], int size) {
 
   if (size < 2) {
