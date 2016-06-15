@@ -1,0 +1,59 @@
+YUM
+=====
+
+yellowdog updater modified
+
+yum -y install firefox
+yum  remove firefox (-y to avoid confirmation)
+yum update firefox
+yum info ssh
+yum search openssh
+yum list mysql
+yum list | more
+yum list installed | less
+
+yum provides filename - tells which package a file belongs to
+
+yum check-update
+yum update
+yum history
+yum shell - to excute multiple cmd
+yum repolist
+yum grouplist
+
+RPM
+=====
+
+redhat package manager
+/var/lib/rpm
+
+rpm -checksig pak.rpm - to check intergrity is ok
+rpm -ivh pack.rpm - install
+rpm -qpR pak.rpm - to check dependies before installing
+rpm -ivh --nodeps pack.rpm - install without dependencies
+rpm -q pak.rpm - check rpm installed or not
+rpm -ql pak.rpm - check list of files installed rpm
+rpm -qa | grep pack - list all rpm
+rpm -Uvh pak.rpm - upgrade
+rpm -ev pack.rpm - delete
+rpm -qf txt.txt - query which rpm belong to it
+rpm -qi pack.rpm - info
+
+rebuld rpm database
+[root@tecmint]# cd /var/lib
+[root@tecmint]# rm __db*
+[root@tecmint]# rpm --rebuilddb
+[root@tecmint]# rpmdb_verify Packages
+
+ 
+
+TCPDUMP
+TOP
+HOTOP
+IOTOP
+IOSTAT
+Psacct acct
+monit
+iftop
+
+ 
