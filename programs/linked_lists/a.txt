@@ -1,0 +1,79 @@
+Inside initnode
+Inside insert node
+Inside insert node
+Inside insert node
+Inside insert node
+Inside insert node
+Inside insert node
+printing list 1 
+Inside print node
+1
+4
+6
+8
+3
+5
+7
+Inside merge 
+in middle finding 1 1
+fast->next 4 fast->next->next 6
+in middle finding 6 4
+fast->next 8 fast->next->next 3
+in middle finding 3 6
+fast->next 5 fast->next->next 7
+middle element is 8
+Inside merge 
+in middle finding 1 1
+fast->next 4 fast->next->next 6
+middle element is 4
+Inside merge 
+middle element is 1
+Inside merge 
+inside current NULL 
+Inside merge 
+inside current NULL 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+Inside merge 
+middle element is 6
+Inside merge 
+inside current NULL 
+Inside merge 
+inside current NULL 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+Inside merge 
+in middle finding 3 3
+fast->next 5 fast->next->next 7
+middle element is 5
+Inside merge 
+middle element is 3
+Inside merge 
+inside current NULL 
+Inside merge 
+inside current NULL 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+Inside merge 
+inside current NULL 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+inside merge sortttttinggg 
+Inside print node
+1
+3
+4
+5
+6
+7
+8
