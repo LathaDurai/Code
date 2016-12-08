@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+/**********************DONE******************/
 /* panagram - sentence contains all
  * 26 alaphabets atleast once;
  */

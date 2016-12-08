@@ -27,14 +27,15 @@ void rotate(int *arr, int n) {
          arr[i]= arr[j];
          arr[j] = temp;
          j--;
+    print(arr, n);
     }
     print(arr, n);
 
 }
 
 int main() {
-  int arr[5] = {1,2,3,4,5};
-  int n = 5;
+  int arr[] = {0,3,2,0};
+  int n = sizeof(arr)/sizeof(arr[0]);;
 
   print(arr, n);
   rotate(arr, n);
